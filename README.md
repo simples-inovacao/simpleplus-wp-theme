@@ -1,6 +1,7 @@
 # Simple Plus — WordPress Theme
 
 Custom WordPress theme converted from the [simpleplus-growth-hub](../simpleplus-growth-hub) React application.
+teste
 
 ## Tech Stack
 
